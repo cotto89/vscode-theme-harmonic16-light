@@ -1,0 +1,22 @@
+{
+    "name": "theme-harmonic16-light",
+    "displayName": "Harmonic16 light Theme",
+    "description": "Theme base on base-16-harmonic16 light",
+    "version": "0.0.1",
+    "publisher": "cotto",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Harmonic16 Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Harmonic16.light.tmTheme"
+            }
+        ]
+    }
+}
